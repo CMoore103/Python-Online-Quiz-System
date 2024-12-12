@@ -1,0 +1,152 @@
+{
+    "1": {
+        "Question": "Who was the 1st President of the United States? ",
+        "Options": [
+            "John Adams",
+            "Bill Clinton",
+            "George Washington",
+            "James Madison"
+        ],
+        "Answer": "George Washington"
+    },
+    "2": {
+        "Question": "What year did the United States join World War 2? ",
+        "Options": [
+            1939,
+            1941,
+            1950,
+            1940
+        ],
+        "Answer": 1941
+    },
+    "3": {
+        "Question": "What year was the Declaration of Independence signed? ",
+        "Options": [
+            1776,
+            1778,
+            1780,
+            1775
+        ],
+        "Answer": 1776
+    },
+    "4": {
+        "Question": "Which of the following was not a part of the Axis Powers in World War 2? ",
+        "Options": [
+            "Japan",
+            "Germany",
+            "China",
+            "Italy"
+        ],
+        "Answer": "China"
+    },
+    "5": {
+        "Question": "What is the military codename used for the Nazi invasion of the Soviet Union? ",
+        "Options": [
+            "Operation Sea Lion",
+            "Operation Barbarosa",
+            "Operation Overlord",
+            "Operation Torch"
+        ],
+        "Answer": "Operation Barbarosa"
+    },
+    "6": {
+        "Question": " Who was the first President to be assassinated? ",
+        "Options": [
+            "Abraham Lincoln",
+            "Andrew Jackson",
+            "Grover Cleveland ",
+            "John F. Kennedy"
+        ],
+        "Answer": "Abraham Lincoln"
+    },
+    "7": {
+        "Question": " Who was the President who oversaw the Bay of Pigs invasion? ",
+        "Options": [
+            " John F. Kennedy",
+            " Dwight Eisenhower",
+            " Lyndon Johnson",
+            " Richard Nixon"
+        ],
+        "Answer": " John F. Kennedy"
+    },
+    "8": {
+        "Question": " Which President signed the Alien and Sedition Acts?",
+        "Options": [
+            "Thomas Jefferson",
+            "John Adams",
+            "James Madison",
+            "John Quincy Adams"
+        ],
+        "Answer": " John Adams"
+    },
+    "9": {
+        "Question": " What was the military codename for D-Day?",
+        "Options": [
+            "Operation Overlord",
+            "Operation Typhoon",
+            "Operation Scorch",
+            "Operation Torch"
+        ],
+        "Answer": "Operation Overlord"
+    },
+    "10": {
+        "Question": "What political party did Thomas Jefferson belong to?",
+        "Options": [
+            "Democratic-Republican Party",
+            "Democratic Party",
+            "Green Party",
+            "Federalists"
+        ],
+        "Answer": "Democratic-Republican Party"
+    },
+    "11": {
+        "Question": "How many colonies were there in the US?",
+        "Options": [
+            "13",
+            "12",
+            "11",
+            "20"
+        ],
+        "Answer": "13"
+    },
+    "12": {
+        "Question": "What year did the Louisiana Purchase take place?",
+        "Options": [
+            "1803",
+            "1812",
+            "1799",
+            "1801"
+        ],
+        "Answer": "1803"
+    },
+    "13": {
+        "Question": "What is the name of the ship that brought the Pilgrims to America?",
+        "Options": [
+            "Mayflower",
+            "Discovery",
+            "Speed",
+            "It was just a ship, it had no name"
+        ],
+        "Answer": "Mayflower"
+    },
+    "14": {
+        "Question": "What year did the French Revolution begin?",
+        "Options": [
+            "1789",
+            "1777",
+            "1801",
+            "1756"
+        ],
+        "Answer": "1789"
+    },
+    "15": {
+        "Question": "During the Cold War, what is considered to be the closest the world came to nuclear war between the United States and Soviet Union?",
+        "Options": [
+            "The Cuban Missle Crisis",
+            "The Korean War",
+            "The Vietnam War",
+            "The Berlin Blockade"
+        ],
+        "Answer": "The Cuban Missle Crisis"
+    }
+}

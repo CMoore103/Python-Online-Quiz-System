@@ -1,0 +1,23 @@
+{
+    "cmmoore103": {
+        "Password": "Patriots12",
+        "Role": "student",
+        "Quiz Scores": [
+            80.0,
+            100.0,
+            90.0
+        ]
+    },
+    "instructor#1": {
+        "Password": "123456",
+        "Role": "instructor",
+        "Quiz Scores": []
+    },
+    "Test": {
+        "Password": "test",
+        "Role": "student",
+        "Quiz Scores": [
+            80.0
+        ]
+    }
+}
